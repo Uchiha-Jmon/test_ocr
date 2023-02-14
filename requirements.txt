@@ -108,7 +108,6 @@ pydeck==0.8.0b4
 pydocstyle==6.1.1
 pyflakes==2.4.0
 Pygments==2.13.0
-PyGObject==3.36.0
 PyJWT==1.7.1
 pylatexenc==2.10
 pylint==2.15.5
