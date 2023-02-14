@@ -9,6 +9,8 @@ import io
 from google.cloud import vision
 from fuzzywuzzy import fuzz
 import re
+import urllib.request
+import requests
 
 def detect_text(image_in):
     """Detects text in the file."""
