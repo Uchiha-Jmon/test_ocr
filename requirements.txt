@@ -1,3 +1,4 @@
+python -m pip install --upgrade pip
 python-apt==0.7.8
 astroid==2.12.12
 asttokens==2.2.1
