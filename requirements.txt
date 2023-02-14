@@ -102,7 +102,6 @@ pure-eval==0.2.2
 pyarrow==9.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycairo==1.16.2
 pycodestyle==2.8.0
 pycups==1.9.73
 pydeck==0.8.0b4
