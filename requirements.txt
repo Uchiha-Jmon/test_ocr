@@ -182,7 +182,6 @@ tornado==6.2
 traitlets==5.8.0
 typing_extensions==4.4.0
 tzdata==2022.5
-tzlocal==4.2
 ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
 ufw==0.36
