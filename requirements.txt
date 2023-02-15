@@ -127,7 +127,6 @@ pyspellchecker==0.7.0
 pytesseract==0.3.9
 python-crfsuite==0.9.8
 python-dateutil==2.8.2
-python-debian===0.1.36ubuntu1
 python-dotenv==0.21.0
 python-Levenshtein==0.12.2
 python-lsp-jsonrpc==1.0.0
