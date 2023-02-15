@@ -124,7 +124,6 @@ pyRFC3339==1.1
 pyrsistent==0.18.1
 PySide6==6.2.4
 pyspellchecker==0.7.0
-python-apt==2.0.1
 pytesseract==0.3.9
 python-crfsuite==0.9.8
 python-dateutil==2.8.2
