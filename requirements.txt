@@ -165,7 +165,6 @@ ssh-import-id==5.10
 stack-data==0.6.2
 streamlit==1.15.1
 streamlit-cropper==0.2.0
-streamlit-lottie==0.0.3
 ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
 ufw==0.36
