@@ -157,7 +157,6 @@ semver==2.13.0
 sgcli==1.6
 shiboken6==6.2.4
 simplejson==3.16.0
-sip==4.19.21
 six==1.14.0
 smart-open==6.2.0
 smmap==5.0.0
