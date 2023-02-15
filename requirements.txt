@@ -167,7 +167,6 @@ streamlit==1.15.1
 streamlit-cropper==0.2.0
 streamlit-lottie==0.0.3
 streamlit-modal==0.1.0
-streamlit-scrollable-textbox==0.0.2
 ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
 ufw==0.36
